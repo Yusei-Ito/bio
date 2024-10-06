@@ -11,8 +11,11 @@ description: "Yusei Ito&#39;s mailing and office addresses at the Osaka Universi
 #### Mailing address
 
 Yusei Ito
+<br>
 Department of Applied Physics, Graduate School of Engineering,
+<br>
 Osaka University
+<br>
 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan
 
 ---
