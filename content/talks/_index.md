@@ -13,6 +13,7 @@ description: "Preprints and articles by Professor Dr von Igelfeld."
 ## Domestic conference
 [2] 武市泰男, 伊藤優成, 丹羽尉博, 木村正雄, 小野寛太, “ギガピクセルイメージングXAFSの開発”, 第36回放射光学会年会 放射光科学合同シンポジウム, January (2023).
 <br>
+<br>
 [1] 伊藤優成, 武市泰男, 日野英逸, 小野寛太, “超大規模X線吸収スペクトルのデータ解析手法の研究”, 第36回放射光学会年会 放射光科学合同シンポジウム, January (2023).
 
 ---
