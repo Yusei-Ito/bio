@@ -1,11 +1,11 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Rational partitioning of spectral feature space for effective clustering of massive spectral image data" 
+date: 2024-09-29
+lastmod: 2024-09-29
+tags: []
+author: ["Yusei Ito","Yasuo Takeichi", "Hideitsu Hino", "Kanta Ono"]
+description: "This paper proposes new clustering method for massive spectral image data. Published in the Scientific Reports, 2024." 
+summary: "This paper proposes new clustering method for massive spectral image data. " 
 cover:
     image: "paper1.png"
     alt: "Some Uses For Olive Oil"
@@ -20,8 +20,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
++ [Paper](https://www.nature.com/articles/s41598-024-74016-0)
 + [Code and data](https://github.com/pmichaillat/feru)
 
 ---
