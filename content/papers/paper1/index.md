@@ -5,10 +5,10 @@ lastmod: 2024-09-29
 tags: []
 author: ["Yusei Ito","Yasuo Takeichi", "Hideitsu Hino", "Kanta Ono"]
 description: "This paper proposes new clustering method for massive spectral image data. Published in the Scientific Reports, 2024." 
-summary: "This paper proposes new clustering method for massive spectral image data. " 
+summary: "This paper proposes new clustering method for massive spectral image data. Published in the Scientific Reports, 2024." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Figure 1 of the paper"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
@@ -21,7 +21,7 @@ editPost:
 ##### Download
 
 + [Paper](https://www.nature.com/articles/s41598-024-74016-0)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Code and data](https://github.com/quantumbeam/Clustering-Method-for-Massive-Spectral-Image-Data)
 
 ---
 
