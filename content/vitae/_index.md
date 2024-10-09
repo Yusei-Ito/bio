@@ -6,21 +6,24 @@ description: "Vitae"
 
 ---
 ### Vitae
-Omron Sinic X Corporation, Internship
+##### Omron Sinic X Corporation, Internship
 - May 2024 - current
 - Supervisor: Dr. Tatsunori Taniai
 <br>
 <br>
-Osaka University, Project researcher (大阪大学 特任研究員)
+
+##### Osaka University, Project researcher
 - April 2023 - current
 <br>
 <br>
-Osaka University, Department of Applied Physics, Master's course student (大阪大学 工学研究科 物理学系専攻)
+
+##### Osaka University, Department of Applied Physics, Master's course student
 - April 2023 - current
 - Supervisor: Prof. Kanta Ono
 <br>
 <br>
-Osaka University, Department of Applied Physics, Undergraduate student (大阪大学 工学部 応用物理学コース)
+
+##### Osaka University, Department of Applied Physics, Undergraduate student
 - April 2019 - March 2023
 - Supervisor: Prof. Kanta Ono
 <br>
