@@ -6,7 +6,6 @@ description: "Talks by Yusei Ito."
 ---
 
 ## International conference(Refereed)
-<br>
 [1] Yusei Ito, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Optimal Spectroscopic Measurement Design: Bayesian Framework for Rational Data Acquisition", AI for Accelerated Materials Design - NeurIPS2024 Workshop, Vancouver, Canada, December (2024).
 ---
 
@@ -26,6 +25,7 @@ description: "Talks by Yusei Ito."
 <br>
 <br>
 [1] Yasuo Takeichi, Yusei Ito, Yasuhiro Niwa, Reiko Murao, Masao Kimura, Kanta Ono, "Development of gigapixel imaging XAFS", Twenty-Sixth Congress and General Assembly of the International Union of Crystallography, Melbourne, Australia, August (2023).
+
 ---
 
 ## Domestic conference
