@@ -59,7 +59,7 @@ params:
             - name: Talks
               url: talks/
             - name: Vitae
-              url: Vitae/
+              url: vitae/
 
     socialIcons:
         - name: CV
