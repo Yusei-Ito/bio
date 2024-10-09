@@ -4,7 +4,6 @@ description: "Vitae"
 
 ---
 
----
 ## Vitae
 ### Omron Sinic X Corporation, Internship
 - May 2024 - current
