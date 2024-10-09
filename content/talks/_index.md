@@ -1,19 +1,18 @@
 ---
 title: "talks"
-description: "Preprints and articles by Professor Dr von Igelfeld."
+description: "Talks by Yusei Ito."
 ---
 
 ---
 
 ## International conference(Refereed)
-
-[1] Yusei Ito, Yasuo Takeichi,  Hideitsu Hino, Kanta Ono, "Optimal Spectroscopic Measurement Design: Bayesian Framework for Rational Data Acquisition", AI for Accelerated Materials Design - NeurIPS2024 Workshop, Vancouver, Canada, December (2024).
+<br>
+[1] Yusei Ito, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Optimal Spectroscopic Measurement Design: Bayesian Framework for Rational Data Acquisition", AI for Accelerated Materials Design - NeurIPS2024 Workshop, Vancouver, Canada, December (2024).
 ---
 
 ---
 
 ## International conference(Unrefereed)
-
 [5] Yusei Ito, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Gigapixel X-ray Spectromicroscopy Data Analysis by Clustering", 16th International Conference on X-Ray Microscopy (XRM 2024), Lund, Sweden, August (2024). (oral presentation) 
 <br>
 <br>
