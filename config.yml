@@ -54,12 +54,12 @@ params:
           imageHeight: 160
           imageTitle: Yusei Ito
           buttons:
-            - name: Vitae
-              url: Vitae/
             - name: Papers
               url: papers/
             - name: Talks
               url: talks/
+            - name: Vitae
+              url: Vitae/
 
     socialIcons:
         - name: CV

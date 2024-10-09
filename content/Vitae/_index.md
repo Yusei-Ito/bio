@@ -1,5 +1,5 @@
 ---
-title: "vitae"
+title: "Vitae"
 description: "vitae"
 ---
 
