@@ -11,6 +11,9 @@ taxonomies:
 
 menu:
     main:
+        - name: Vitae
+          url: Vitae/
+          weight: 2
         - name: Papers
           url: papers/
           weight: 2
@@ -51,6 +54,8 @@ params:
           imageHeight: 160
           imageTitle: Yusei Ito
           buttons:
+            - name: Vitae
+              url: Vitae/
             - name: Papers
               url: papers/
             - name: Talks
