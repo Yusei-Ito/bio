@@ -6,12 +6,14 @@ description: "Preprints and articles by Professor Dr von Igelfeld."
 ---
 
 ## International conference(Refereed)
+
 [1] Yusei Ito, Yasuo Takeichi,  Hideitsu Hino, Kanta Ono, "Optimal Spectroscopic Measurement Design: Bayesian Framework for Rational Data Acquisition", AI for Accelerated Materials Design - NeurIPS2024 Workshop, Vancouver, Canada, December (2024).
 ---
 
 ---
 
 ## International conference(Unrefereed)
+
 [5] Yusei Ito, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Gigapixel X-ray Spectromicroscopy Data Analysis by Clustering", 16th International Conference on X-Ray Microscopy (XRM 2024), Lund, Sweden, August (2024). (oral presentation) 
 <br>
 <br>
@@ -31,7 +33,7 @@ description: "Preprints and articles by Professor Dr von Igelfeld."
 [15] 武市泰男, 伊藤優成, 丹羽尉博, 木村正雄, “イメージングXAFSデータ解析のためのImageJプラグイン”, 第38回放射光学会年会 放射光科学合同シンポジウム, January (2025).
 <br>
 <br>
-[14] 伊藤優成, 谷合竜典, 五十嵐亮, 牛久祥孝, 小野寛太, “SE(3)不変な結晶構造モデリングにおけるフレームの役割の再考”, 第27回情報論的学習理論ワークショップ（IBIS2024）, November (2024).
+[14] 伊藤優成, 谷合竜典, 五十嵐亮, 牛久祥孝, 小野寛太, “SE(3)不変な結晶構造モデリングにおけるフレームの役割の再考”, 第27回情報論的学習理論ワークショップ（IBIS2024, November (2024).
 <br>
 <br>
 [13] 中尾柊太、武市泰男、伊藤優成, 小野寛太, “X線顕微鏡の分解能向上に向けた非点収差軽減のための定量的アラインメント調整手法”, 2024年度大阪大学JSAP学生チャプター講演会, September (2024).
