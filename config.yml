@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Vitae
-          url: Vitae/
+          url: vitae/
           weight: 2
         - name: Papers
           url: papers/
