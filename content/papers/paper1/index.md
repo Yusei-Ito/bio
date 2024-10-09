@@ -11,8 +11,8 @@ cover:
     alt: "Figure 1 of the paper"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://www.nature.com/articles/s41598-024-74016-0"
+    Text: "Scientific Reports"
 
 ---
 
