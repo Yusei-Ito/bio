@@ -49,7 +49,7 @@ params:
           enabled: true
           title: Yusei Ito
           subtitle: "I am a master course student at Osaka University, Japan."
-          imageUrl: "picture.jpeg"
+          imageUrl: "self_photo.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Yusei Ito
