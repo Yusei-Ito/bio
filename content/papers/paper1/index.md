@@ -36,7 +36,7 @@ We have successfully proposed and demonstrated a clustering method that overcome
 Ito, Y., Takeichi, Y., Hino, H. et al. Rational partitioning of spectral feature space for effective clustering of massive spectral image data. Sci Rep 14, 22549 (2024). https://doi.org/10.1038/s41598-024-74016-0
 
 ```BibTeX
-@article{10.1038/s41598-024-74016-0, 
+@article{ito2024Clustering, 
 year = {2024}, 
 title = {Rational partitioning of spectral feature space for effective clustering of massive spectral image data}, 
 author = {Ito, Yusei and Takeichi, Yasuo and Hino, Hideitsu and Ono, Kanta}, 
