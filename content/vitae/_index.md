@@ -5,7 +5,7 @@ description: "Vitae"
 ---
 
 ## Vitae
-### Omron Sinic X Corporation, Internship
+### OMRON SINIC X Corporation, Internship
 - May 2024 - September 2024
 - Supervisor: Dr. Tatsunori Taniai & Dr. Ryo Igarashi
 <br>
