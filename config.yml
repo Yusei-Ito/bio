@@ -24,7 +24,7 @@ menu:
 params:
     description: "I am a master course student at Osaka University, Japan. My research interests lie in AI for science, with a focus on physical measurement data analysis, measurement optimization, and deep learning methods to accelerate material discovery. My work aims to drive scientific breakthroughs and foster innovation through AI-driven approaches."
     author: Yusei Ito
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-3GHZR90GBH"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
