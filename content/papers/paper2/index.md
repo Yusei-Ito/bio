@@ -18,7 +18,7 @@ editPost:
 
 ---
 
-##### Download
+##### Links
 
 + [Paper](https://openreview.net/forum?id=gzxDjnvBDa)
 + [Project page](https://omron-sinicx.github.io/crystalframer/)
