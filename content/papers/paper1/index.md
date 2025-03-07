@@ -18,7 +18,7 @@ editPost:
 
 ---
 
-##### Download
+##### Links
 
 + [Paper](https://www.nature.com/articles/s41598-024-74016-0)
 + [Code and data](https://github.com/quantumbeam/Clustering-Method-for-Massive-Spectral-Image-Data)
@@ -32,8 +32,6 @@ We have successfully proposed and demonstrated a clustering method that overcome
 ---
 
 ##### Citation
-
-Ito, Y., Takeichi, Y., Hino, H. et al. Rational partitioning of spectral feature space for effective clustering of massive spectral image data. Sci Rep 14, 22549 (2024). https://doi.org/10.1038/s41598-024-74016-0
 
 ```BibTeX
 @article{ito2024Clustering, 
