@@ -20,16 +20,16 @@ description: "Talks by Yusei Ito."
 [5] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Gigapixel X-ray Spectromicroscopy Data Analysis by Clustering", 16th International Conference on X-Ray Microscopy (XRM 2024), Lund, Sweden, August (2024). (oral presentation) 
 <br>
 <br>
-[4] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Optimal Spectromicroscopic Experimental Design for Massive Data Acquisition", 16th International Conference on X-Ray Microscopy (XRM 2024), Lund, Sweden, August (2024). 
+[4] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Optimal Spectromicroscopic Experimental Design for Massive Data Acquisition", 16th International Conference on X-Ray Microscopy (XRM2024), Lund, Sweden, August (2024). 
 <br>
 <br>
-[3] Yasuo Takeichi, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masuo Kimura, Kanta Ono, "Development and conventional analysis of gigapixel imaging XAFS", 16th International Conference on X-Ray Microscopy (XRM 2024), Lund, Sweden, August (2024).
+[3] Yasuo Takeichi, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masuo Kimura, Kanta Ono, "Development and conventional analysis of gigapixel imaging XAFS", 16th International Conference on X-Ray Microscopy (XRM2024), Lund, Sweden, August (2024).
 <br>
 <br>
-[2] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Reiko Murao, Kanta, Ono, “Gigapixel X-ray micro-spectroscopy data analysis by using machine learning”, Twenty-Sixth Congress and General Assembly of the International Union of Crystallography, Melbourne, Australia, August (2023).
+[2] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Reiko Murao, Kanta, Ono, “Gigapixel X-ray micro-spectroscopy data analysis by using machine learning”, Twenty-Sixth Congress and General Assembly of the International Union of Crystallography (IUCr2023), Melbourne, Australia, August (2023).
 <br>
 <br>
-[1] Yasuo Takeichi, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Reiko Murao, Masao Kimura, Kanta Ono, "Development of gigapixel imaging XAFS", Twenty-Sixth Congress and General Assembly of the International Union of Crystallography, Melbourne, Australia, August (2023).
+[1] Yasuo Takeichi, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Reiko Murao, Masao Kimura, Kanta Ono, "Development of gigapixel imaging XAFS", Twenty-Sixth Congress and General Assembly of the International Union of Crystallography (IUCr2023), Melbourne, Australia, August (2023).
 
 ---
 
