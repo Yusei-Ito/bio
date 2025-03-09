@@ -1,7 +1,7 @@
 ---
 title: "Rethinking the role of frames for SE(3)-invariant crystal structure modeling" 
-date: 2025-01-22
-lastmod: 2025-01-22
+date: 2025-04-24
+lastmod: 2025-04-24
 tags: []
 author: ["Yusei Ito*","Tatsunori Taniai*", "Ryo Igarashi", "Yoshitaka Ushiku", "Kanta Ono"]
 description: "This paper proposes dynamic atom-wise frames aligned with attention-based interatomic interactions on the structure, rather than with the structure itself. Published in ICLR2025." 
