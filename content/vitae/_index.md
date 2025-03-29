@@ -18,8 +18,8 @@ description: "Vitae"
 <br>
 
 ## Education
-### Osaka University, Department of Applied Physics, Ph.D student
-- April 2025 - current
+### Osaka University, Department of Applied Physics, Ph.D. student
+- April 2025 - present
 - Supervisor: Prof. Kanta Ono
 <br>
 <br>
