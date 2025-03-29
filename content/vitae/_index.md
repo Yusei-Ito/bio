@@ -4,7 +4,7 @@ description: "Vitae"
 
 ---
 
-## Vitae
+## Employment
 ### OMRON SINIC X Corporation, Internship
 - May 2024 - September 2024
 - Supervisor: Dr. Tatsunori Taniai & Dr. Ryo Igarashi
@@ -13,12 +13,19 @@ description: "Vitae"
 <br>
 
 ### Osaka University, Project researcher
-- April 2023 - current
+- April 2023 - March 2025
+<br>
+<br>
+
+## Education
+### Osaka University, Department of Applied Physics, Ph.D student
+- April 2025 - current
+- Supervisor: Prof. Kanta Ono
 <br>
 <br>
 
 ### Osaka University, Department of Applied Physics, Master's course student
-- April 2023 - current
+- April 2023 - March 2025
 - Supervisor: Prof. Kanta Ono
 <br>
 <br>
@@ -29,9 +36,3 @@ description: "Vitae"
 <br>
 <br>
 
-## Awards
-第37回 放射光学会年会 放射光科学合同シンポジウム 学生発表賞 (2024)
-<br>
-SICE優秀学生賞 (2023)
-<br>
-大阪大学 全学教育優秀賞 (2020)
