@@ -35,16 +35,16 @@ We propose an optimal experimental design method for spectroscopic measurements 
 
 ```BibTeX
 @inproceedings{ito2025experimentaldesign,
+  year      = {2025},
   title     = {Optimal spectroscopic measurement design: Bayesian framework for rational data acquisition},
   author    = {Yusei Ito and 
                Yasuo Takeichi and
                Hideitsu Hino and
                Kanta Ono},
-  journal = {Machine Learning: Science and Technology}, 
-  doi = {10.1088/2632-2153/add0f6}, 
-  volume = {6},
-  number = {2}, 
-  pages = {025037}
-}
+  journal   = {Machine Learning: Science and Technology}, 
+  doi       = {10.1088/2632-2153/add0f6}, 
+  volume    = {6},
+  number    = {2}, 
+  pages     = {025037}
 }
 ```

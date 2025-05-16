@@ -36,6 +36,7 @@ Crystal structure modeling with graph neural networks is essential for various a
 
 ```BibTeX
 @inproceedings{ito2025crystalframer,
+  year      = {2025},
   title     = {Rethinking the role of frames for SE(3)-invariant crystal structure modeling},
   author    = {Yusei Ito and 
                Tatsunori Taniai and
@@ -43,7 +44,6 @@ Crystal structure modeling with graph neural networks is essential for various a
                Yoshitaka Ushiku and
                Kanta Ono},
   booktitle = {The Thirteenth International Conference on Learning Representations (ICLR 2025)},
-  year      = {2025},
   url       = {https://openreview.net/forum?id=gzxDjnvBDa}
 }
 ```
