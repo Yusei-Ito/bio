@@ -40,8 +40,7 @@ title = {Rational partitioning of spectral feature space for effective clusterin
 author = {Ito, Yusei and Takeichi, Yasuo and Hino, Hideitsu and Ono, Kanta}, 
 journal = {Scientific Reports}, 
 doi = {10.1038/s41598-024-74016-0}, 
-pages = {22549}, 
-number = {1}, 
-volume = {14}
+volume = {14}, 
+pages = {22549} 
 }
 ```
