@@ -5,7 +5,7 @@ lastmod: 2025-05-16
 tags: []
 author: ["Yusei Ito","Yasuo Takeichi", "Hideitsu Hino", "Kanta Ono"]
 description: "This paper proposes optimal experimental design method for spectroscopy measurement by using Bayesian framework. Published in Machine Learning: Science and Technology, 2025." 
-summary: "This paper proposes optimal experimental design method for spectroscopy measurement by using Bayesian framework, 2025." 
+summary: "This paper proposes optimal experimental design method for spectroscopy measurement by using Bayesian framework. Published in the Machine Learning: Science and Technology, 2025." 
 cover:
     image: "teaser.png"
     alt: "Figure 1 of the paper"
