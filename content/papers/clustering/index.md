@@ -4,8 +4,8 @@ date: 2024-09-29
 lastmod: 2024-09-29
 tags: []
 author: ["Yusei Ito","Yasuo Takeichi", "Hideitsu Hino", "Kanta Ono"]
-description: "This paper proposes new clustering method for massive spectral image data. Published in the Scientific Reports, 2024." 
-summary: "This paper proposes new clustering method for massive spectral image data. Published in the Scientific Reports, 2024." 
+description: "This paper proposes new clustering method for massive spectral image data. Published in Scientific Reports, 2024." 
+summary: "This paper proposes new clustering method for massive spectral image data. Published in Scientific Reports, 2024." 
 cover:
     image: "paper1.png"
     alt: "Figure 1 of the paper"

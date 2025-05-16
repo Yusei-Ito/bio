@@ -4,8 +4,8 @@ date: 2025-04-24
 lastmod: 2025-04-24
 tags: []
 author: ["Yusei Ito*","Tatsunori Taniai*", "Ryo Igarashi", "Yoshitaka Ushiku", "Kanta Ono"]
-description: "This paper proposes dynamic atom-wise frames aligned with attention-based interatomic interactions on the structure, rather than with the structure itself. Published in ICLR2025." 
-summary: "This paper proposes dynamic atom-wise frames aligned with attention-based interatomic interactions on the structure, rather than with the structure itself. Published in ICLR2025." 
+description: "This paper proposes dynamic atom-wise frames aligned with attention-based interatomic interactions on the structure, rather than with the structure itself. Published in ICLR 2025." 
+summary: "This paper proposes dynamic atom-wise frames aligned with attention-based interatomic interactions on the structure, rather than with the structure itself. Published in ICLR 2025." 
 cover:
     image: "teaser.png"
     alt: "Figure 1 of the paper"
