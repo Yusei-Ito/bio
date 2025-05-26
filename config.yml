@@ -70,6 +70,8 @@ params:
           url: location/
         - name: GitHub
           url: https://github.com/Yusei-Ito
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=ni-EMfcAAAAJ&hl=ja
 
     assets:
         disableScrollBarStyle: true
