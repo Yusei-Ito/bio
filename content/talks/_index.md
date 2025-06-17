@@ -17,6 +17,9 @@ description: "Talks by Yusei Ito."
 ---
 
 ## International conference(Unrefereed)
+[6] Kai Kawasaki, Yusaku Nakajima, <ins>Yusei Ito</ins>, Yasuo Takeichi, Kanta Ono, "Single-Particle Chemical State and Kinetic Analysis of Mechanochemical Reactions Using Gigapixel X-ray Microscopy", The International Chemical Congress of Pacific Basin Societies 2025 (Pacifichem 2025), Honolulu, Hawaii, December (2025). 
+<br>
+<br>
 [5] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, "Gigapixel X-ray Spectromicroscopy Data Analysis by Clustering", 16th International Conference on X-Ray Microscopy (XRM 2024), Lund, Sweden, August (2024). (oral presentation) 
 <br>
 <br>
@@ -34,6 +37,9 @@ description: "Talks by Yusei Ito."
 ---
 
 ## Domestic conference
+[18] 中尾柊太, 武市泰男, <ins>伊藤優成</ins>, 小野寛太, “超多画素イメージングXAFSによる焼結鉱のFe化学状態の評価”, 第190回日本鉄鋼協会秋季講演大会, September (2025).
+<br>
+<br>
 [17] 武市泰男, <ins>伊藤優成</ins>, 丹羽尉博, 木村正雄, “イメージングXAFSデータ解析のためのImageJプラグイン”, 第38回放射光学会年会 放射光科学合同シンポジウム, January (2025).
 <br>
 <br>
