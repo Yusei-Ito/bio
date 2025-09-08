@@ -5,7 +5,13 @@ description: "Vitae"
 ---
 
 ## Employment
-### OMRON SINIC X Corporation, Internship
+### TOYOTA Motor Corporation, Research internship
+- August 2025 - November 2025
+- Supervisor: Dr. Yuta Suzuki & Dr. Masaki Adachi
+<br>
+<br>
+
+### OMRON SINIC X Corporation, Research internship
 - May 2024 - September 2024
 - Supervisor: Dr. Tatsunori Taniai & Dr. Ryo Igarashi
 - Published a [ICLR2025 paper](https://omron-sinicx.github.io/crystalframer/).
