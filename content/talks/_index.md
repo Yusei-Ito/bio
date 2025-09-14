@@ -37,6 +37,9 @@ description: "Talks by Yusei Ito."
 ---
 
 ## Domestic conference
+[19] 西堀結貴, <ins>伊藤優成</ins>, 鈴木雄太, 五十嵐亮, 牛久祥孝, 小野寛太, “Transformer as a Neural Knowledge Graph”, 阪大x奈良先端大 応用物理学会学生チャプター合同研究発表会, September (2025).
+<br>
+<br>
 [18] 中尾柊太, 武市泰男, <ins>伊藤優成</ins>, 小野寛太, “超多画素イメージングXAFSによる焼結鉱のFe化学状態の評価”, 第190回日本鉄鋼協会秋季講演大会, September (2025).
 <br>
 <br>
