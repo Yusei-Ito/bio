@@ -37,6 +37,9 @@ description: "Talks by Yusei Ito."
 ---
 
 ## Domestic conference
+[20] <ins>伊藤優成</ins>, 鈴木雄太, 足立真輝, “自然言語指示に基づく結晶構造生成フレームワークの開発”, 第28回情報論的学習理論ワークショップ（IBIS2025), November (2025).
+<br>
+<br>
 [19] 西堀結貴, <ins>伊藤優成</ins>, 鈴木雄太, 五十嵐亮, 牛久祥孝, 小野寛太, “Transformer as a Neural Knowledge Graph”, 阪大x奈良先端大 応用物理学会学生チャプター合同研究発表会, September (2025).
 <br>
 <br>
