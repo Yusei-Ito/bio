@@ -5,6 +5,12 @@ description: "Vitae"
 ---
 
 ## Employment
+### Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Visiting research student
+- January 2026 - April 2026
+- Supervisor: Prof. Martin Takáč
+<br>
+<br>
+
 ### TOYOTA Motor Corporation, Research internship
 - August 2025 - November 2025
 - Supervisor: Dr. Yuta Suzuki & Dr. Masaki Adachi
