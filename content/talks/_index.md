@@ -6,6 +6,9 @@ description: "Talks by Yusei Ito."
 ---
 
 ## International conference(Refereed)
+[4] <ins>Yusei Ito</ins>, Yuta Suzuki, Tomoya Murata, Masaki Adachi, “LapidaryEngine: Feedback-Guided Iterative Text-to-Crystal Structure Generation”, AI4X - Accelerate Conference 2026, Singapore, June (2026).
+<br>
+<br>
 [3] <ins>Yusei Ito\*</ins>, Tatsunori Taniai\*, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono, “Rethinking the role of frames for SE(3)-invariant crystal structure modeling”, The Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore, April (2025).
 <br>
 <br>
