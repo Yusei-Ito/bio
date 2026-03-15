@@ -17,6 +17,12 @@ description: "Talks by Yusei Ito."
 ---
 
 ## International conference(Unrefereed)
+[8] Yasuo Takeichi, Shuta Nakao, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masao Kimura, Kanta Ono, "Mineral phase distribution and reduction degradation behavior of iron ore sinters investigated by gigapixel imaging XAFS", The 2nd International Symposium on Iron Ore Agglomerates (SynOre 2026), Toyama, Japan, October (2026). 
+<br>
+<br>
+[7] Yasuo Takeichi, Shuta Nakao, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masao Kimura, Kanta Ono, "Mineral phase identification in iron ore sinters exploiting intrinsic polarization dependence of X-ray absorption spectromicroscopy", The 19th International Conference on X-ray Absorption Fine Structure (XAFS2026), Chiang Mai, Thailand, June (2026). 
+<br>
+<br>
 [6] Kai Kawasaki, Yusaku Nakajima, <ins>Yusei Ito</ins>, Yasuo Takeichi, Kanta Ono, "Single-Particle Chemical State and Kinetic Analysis of Mechanochemical Reactions Using Gigapixel X-ray Microscopy", The International Chemical Congress of Pacific Basin Societies 2025 (Pacifichem 2025), Honolulu, Hawaii, December (2025). 
 <br>
 <br>
