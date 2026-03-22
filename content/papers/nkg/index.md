@@ -4,8 +4,8 @@ date: 2025-04-23
 lastmod: 2025-04-23
 tags: []
 author: ["Yuki Nishihori", "Yusei Ito", "Yuta Suzuki", "Ryo Igarashi", "Yoshitaka Ushiku", "Kanta Ono"]
-description: "Propose a transformer-based neural knowledge graph to integrate contextual knowledge into contrastive learning between crystal structures and linguistic physical properties." 
-summary: "Propose a transformer-based neural knowledge graph to integrate contextual knowledge into contrastive learning between crystal structures and linguistic physical properties." 
+description: "Propose a transformer-based neural knowledge graph to integrate contextual knowledge into contrastive learning between crystal structures and linguistic physical properties. Published in AI4MAT-ICLR-2025." 
+summary: "Propose a transformer-based neural knowledge graph to integrate contextual knowledge into contrastive learning between crystal structures and linguistic physical properties. Published in AI4MAT-ICLR-2025." 
 cover:
     image: "teaser.png"
     alt: "Figure 1 of the paper"
