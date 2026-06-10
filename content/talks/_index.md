@@ -6,6 +6,9 @@ description: "Talks by Yusei Ito."
 ---
 
 ## International conference(Refereed)
+[5] <ins>Yusei Ito</ins>, Aidar Alimbayev\*, Klea Ziu\*, Deepak Kumar\*, Kanta Ono, Martin Takáč, “Revisiting the Form of Attention with Positional Encoding for Molecular Structures”, ICML 2026 Workshop on AI for Physics, Seoul, South Korea, July (2026).
+<br>
+<br>
 [4] <ins>Yusei Ito</ins>, Yuta Suzuki, Tomoya Murata, Masaki Adachi, “LapidaryEngine: Feedback-Guided Iterative Text-to-Crystal Structure Generation”, AI4X - Accelerate Conference 2026, Singapore, June (2026).
 <br>
 <br>
