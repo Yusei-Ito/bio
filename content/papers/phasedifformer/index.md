@@ -1,18 +1,18 @@
 ---
-title: "Optimal spectroscopic measurement design: Bayesian framework for rational data acquisition" 
-date: 2025-05-16
-lastmod: 2025-05-16
+title: "Enabling single-observation decomposition of multi-phase X-ray diffraction patterns via generative deep learning" 
+date: 2026-05-08
+lastmod: 2026-05-08
 tags: []
-author: ["Yusei Ito","Yasuo Takeichi", "Hideitsu Hino", "Kanta Ono"]
-description: "This paper proposes optimal experimental design method for spectroscopy measurement by using Bayesian framework. Published in Machine Learning: Science and Technology, 2025." 
-summary: "This paper proposes optimal experimental design method for spectroscopy measurement by using Bayesian framework. Published in Machine Learning: Science and Technology, 2025." 
+author: ["Yusei Ito", "Naoya Chiba*", "Tatsunori Taniai*", "Ryo Igarashi", "Yuta Suzuki", "Kotaro Saito", "Yoshitaka Ushiku", "Kanta Ono"]
+description: "This paper proposes multi-phase pattern decomposition method for X-ray diffraction measurement by using generative deep learning. Published in npj computational materials, 2026." 
+summary: "This paper proposes multi-phase pattern decomposition method for X-ray diffraction measurement by using generative deep learning. Published in npj computational materials, 2026." 
 cover:
     image: "teaser.png"
     alt: "Figure 1 of the paper"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1088/2632-2153/add0f6"
-    Text: "MLST"
+    URL: "https://doi.org/10.1038/s41524-026-02087-w"
+    Text: "npj computational materials"
 
 ---
 
@@ -20,31 +20,34 @@ editPost:
 
 ##### Links
 
-+ [Paper](https://doi.org/10.1088/2632-2153/add0f6)
-+ [Code](https://github.com/quantumbeam/OptimalSpectroscopicMeasurementDesign)
++ [Paper](https://doi.org/10.1038/s41524-026-02087-w)
++ [Code](https://github.com/quantumbeam/PhaseDifformer)
 
 ---
 
 ##### Abstract
 
-We propose an optimal experimental design method for spectroscopic measurements that can determine the appropriate number and placement of measurement points in a rational manner. Spectroscopic measurements are fundamental for material characterization. It is essential to determine the optimal experimental conditions in an automated, mathematically guaranteed manner for rational and autonomous experiments; however, these conditions have traditionally been determined on the basis of the intuition of human experts. In this work, we developed a method for extracting prior information from a standard spectral database and incorporating it into the Bayesian experimental design framework to determine the optimal measurement points automatically. We verified the proposed method by applying it to X-ray absorption spectrum measurements and evaluated its optimality through conventional analysis. We found that only 70% of the measurement points used in previous studies were sufficient and that the obtained points are consistent with the experts' intuition. The proposed method is expected to enable more rational and efficient fully automated experiments in the future.
+Powder X-ray diffraction (PXRD) is a vital technique for the structural characterization of crystalline compounds. However, this analysis is challenged by practically encountered multi-phase systems, whose mixed PXRD patterns necessitate prior phase decomposition. Traditional approaches require multiple mixture samples or prior knowledge of the constituent phases, limiting their applicability in complex or high-throughput scenarios. Here we show that multi-phase PXRD patterns from a single observation can be automatically decomposed into their constituent single-phase patterns using machine learning. The proposed solution—Phase Decomposition Diffusion Transformers (PhaseDifformer)—reinterprets the denoising process of diffusion models as a probabilistic regressor, enabling recursive extraction of unknown constituent phases. We validate the method on both synthetic mixtures and experimental measurements, achieving accurate phase decomposition in both cases. Given ongoing progress in single-phase PXRD-to-structure methods, our study fills a critical gap toward realizing fully automated, end-to-end analysis of complex PXRD patterns commonly encountered in materials research.
 
 ---
 
 ##### Citation
 
 ```BibTeX
-@article{ito2025experimentaldesign,
-  year      = {2025},
-  title     = {Optimal spectroscopic measurement design: Bayesian framework for rational data acquisition},
+@article{ito2026phasedifformer,
+  year      = {2026},
+  title     = {Enabling single-observation decomposition of multi-phase X-ray diffraction patterns via generative deep learning},
   author    = {Yusei Ito and 
-               Yasuo Takeichi and
-               Hideitsu Hino and
+               Naoya Chiba and
+               Tatsunori Taniai and
+               Ryo Igarashi and
+               Yuta Suzuki and
+               Kotaro Saito and 
+               Yoshitaka Ushiku and 
                Kanta Ono},
-  journal   = {Machine Learning: Science and Technology}, 
-  doi       = {10.1088/2632-2153/add0f6}, 
-  volume    = {6},
-  number    = {2}, 
-  pages     = {025037}
+  journal   = {npj computational materials}, 
+  doi       = {10.1038/s41524-026-02087-w}, 
+  volume    = {12},
+  number    = {238}, 
 }
 ```
