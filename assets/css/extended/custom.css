@@ -1,0 +1,9 @@
+.post-content a {
+    color: #555;
+    text-decoration-color: #999;
+}
+
+.post-content a:hover {
+    color: #000;
+    text-decoration-color: #000;
+}
