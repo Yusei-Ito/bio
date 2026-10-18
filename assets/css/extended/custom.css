@@ -1,9 +1,9 @@
 .post-content a {
-    color: #555;
-    text-decoration-color: #999;
+    color: #3b6f9e;
+    box-shadow: none;
 }
 
 .post-content a:hover {
-    color: #000;
-    text-decoration-color: #000;
+    color: #244d70;
+    box-shadow: 0 1px 0 currentColor;
 }
