@@ -1,6 +1,6 @@
 ---
-title: "talks"
-description: "Talks by Yusei Ito."
+title: "Publications"
+description: "Publications"
 ---
 
 ---
