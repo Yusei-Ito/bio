@@ -4,6 +4,10 @@ description: "Publications"
 ---
 
 ---
+## Journals
+[1] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, ["Rational partitioning of spectral feature space for effective clustering of massive spectral image data,"](https://doi.org/10.1038/s41598-024-74016-0) Scientific Reports **14**, 22549 (2024).
+
+---
 
 ## International Conferences (Peer-reviewed)
 [1] <ins>Yusei Ito\*</ins>, Tatsunori Taniai\*, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono, “Rethinking the role of frames for SE(3)-invariant crystal structure modeling”, The Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore, April (2025).
