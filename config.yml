@@ -11,15 +11,15 @@ taxonomies:
 
 menu:
     main:
+        - name: Research Projects
+          url: research/
+          weight: 1
+        - name: Publications
+          url: publications/
+          weight: 2
         - name: Vitae
           url: vitae/
-          weight: 2
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Talks
-          url: talks/
-          weight: 2
+          weight: 3
 
 params:
     description: "I am a Ph.D. student at Osaka University in Japan. My research focuses on AI for science, particularly the analysis of physical-measurement data, experimental design, and AI-assisted strategies that accelerate materials discovery. Through these AI-driven approaches, I aim to advance scientific breakthroughs and foster innovation."
@@ -37,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data", "talks", "vitae"]
+    MainSections: ["research", "publications", "vitae"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,12 +54,12 @@ params:
           imageHeight: 160
           imageTitle: Yusei Ito
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Talks
-              url: talks/
-            - name: Vitae
-              url: vitae/
+              - name: Research Projects
+                url: research/
+              - name: Publications
+                url: publications/
+              - name: Vitae
+                url: vitae/
 
     socialIcons:
         - name: CV
