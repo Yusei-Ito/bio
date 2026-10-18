@@ -75,6 +75,9 @@ description: "Publications"
 ---
 
 ## Domestic Conferences
+[25] <ins>伊藤優成</ins>, Aidar Alimbayev\*, Klea Ziu\*, Deepak Kumar\*, 小野寛太, Martin Takáč, "分子構造に対する位置エンコーディングを用いたAttention機構の再検討," 第29回情報論的学習理論ワークショップ（IBIS2026), 埼玉, November (2026).
+<br>
+<br>
 [24] <ins>伊藤優成</ins>, 西堀 結貴, 小野寛太, "結晶構造プロトタイプを活用した粉末 X 線回折の相同定手法の開発," 第87回応用物理学会秋季学術講演会, 北海道, September (2026).
 <br>
 <br>
