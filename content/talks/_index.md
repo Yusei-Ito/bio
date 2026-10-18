@@ -5,14 +5,22 @@ description: "Talks by Yusei Ito."
 
 ---
 
-## International conference(Refereed)
-[5] <ins>Yusei Ito</ins>, Aidar Alimbayev\*, Klea Ziu\*, Deepak Kumar\*, Kanta Ono, Martin Takáč, “Revisiting the Form of Attention with Positional Encoding for Molecular Structures”, ICML 2026 Workshop on AI for Physics, Seoul, South Korea, July (2026).
+## International Conferences (Peer-reviewed)
+[1] <ins>Yusei Ito\*</ins>, Tatsunori Taniai\*, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono, “Rethinking the role of frames for SE(3)-invariant crystal structure modeling”, The Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore, April (2025).
+
+---
+
+## International Workshops (Peer-reviewed)
+[6] <ins>Yusei Ito</ins>, Yuki Nishihori, Kanta Ono, "A Prototype-Guided Solver for Crystal Structure Determination from Powder X-ray Diffraction", AI for Accelerated Materials Design-NeurIPS2026 Workshop, Sydney, Australia, December (2026).
 <br>
 <br>
-[4] <ins>Yusei Ito</ins>, Yuta Suzuki, Tomoya Murata, Masaki Adachi, “LapidaryEngine: Feedback-Guided Iterative Text-to-Crystal Structure Generation”, AI4X - Accelerate Conference 2026, Singapore, June (2026).
+[5] Klea Ziu, Ayala V. Cohen, <ins>Yusei Ito</ins>, Aidar Alimbayev, Leeor Kronik, Martin Takáč, "UMA-DOS: Transfer Learning from Pretrained Atomistic Models for Density of States Prediction", AI for Accelerated Materials Design-NeurIPS2026 Workshop, Sydney, Australia, December (2026).
 <br>
 <br>
-[3] <ins>Yusei Ito\*</ins>, Tatsunori Taniai\*, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono, “Rethinking the role of frames for SE(3)-invariant crystal structure modeling”, The Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore, April (2025).
+[4] Deepak Kumar, <ins>Yusei Ito</ins>, Aidar Alimbayev, Klea Ziu, Martin Takáč, "LAMP-QDF: Local Attention Map for Potential in Quantum Deep Field", NeurIPS 2026 Workshop on AI for Drug Discovery, Sydney, Australia, December (2026).
+<br>
+<br>
+[3] <ins>Yusei Ito</ins>, Aidar Alimbayev\*, Klea Ziu\*, Deepak Kumar\*, Kanta Ono, Martin Takáč, “Revisiting the Form of Attention with Positional Encoding for Molecular Structures”, ICML 2026 Workshop on AI for Physics, Seoul, South Korea, July (2026).
 <br>
 <br>
 [2] Yuki Nishihori, <ins>Yusei Ito</ins>, Yuta Suzuki, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono, "Transformer as a Neural Knowledge Graph" , AI for Accelerated Materials Design-ICLR2025 Workshop, Singapore, April (2025).
@@ -22,11 +30,14 @@ description: "Talks by Yusei Ito."
 
 ---
 
-## International conference(Unrefereed)
-[8] Yasuo Takeichi, Shuta Nakao, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masao Kimura, Kanta Ono, "Mineral phase distribution and reduction degradation behavior of iron ore sinters investigated by gigapixel imaging XAFS", The 2nd International Symposium on Iron Ore Agglomerates (SynOre 2026), Toyama, Japan, October (2026). 
+## International Conferences and Symposia (Non-peer-reviewed)
+[9] Yasuo Takeichi, Shuta Nakao, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masao Kimura, Kanta Ono, "Mineral phase distribution and reduction degradation behavior of iron ore sinters investigated by gigapixel imaging XAFS", The 2nd International Symposium on Iron Ore Agglomerates (SynOre 2026), Toyama, Japan, October (2026). 
 <br>
 <br>
-[7] Yasuo Takeichi, Shuta Nakao, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masao Kimura, Kanta Ono, "Mineral phase identification in iron ore sinters exploiting intrinsic polarization dependence of X-ray absorption spectromicroscopy", The 19th International Conference on X-ray Absorption Fine Structure (XAFS2026), Chiang Mai, Thailand, June (2026). 
+[8] Yasuo Takeichi, Shuta Nakao, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Masao Kimura, Kanta Ono, "Mineral phase identification in iron ore sinters exploiting intrinsic polarization dependence of X-ray absorption spectromicroscopy", The 19th International Conference on X-ray Absorption Fine Structure (XAFS2026), Chiang Mai, Thailand, June (2026). 
+<br>
+<br>
+[7] <ins>Yusei Ito</ins>, Yuta Suzuki, Tomoya Murata, Masaki Adachi, “LapidaryEngine: Feedback-Guided Iterative Text-to-Crystal Structure Generation”, AI4X - Accelerate Conference 2026, Singapore, June (2026).
 <br>
 <br>
 [6] Kai Kawasaki, Yusaku Nakajima, <ins>Yusei Ito</ins>, Yasuo Takeichi, Kanta Ono, "Single-Particle Chemical State and Kinetic Analysis of Mechanochemical Reactions Using Gigapixel X-ray Microscopy", The International Chemical Congress of Pacific Basin Societies 2025 (Pacifichem 2025), Honolulu, Hawaii, December (2025). 
@@ -48,7 +59,7 @@ description: "Talks by Yusei Ito."
 
 ---
 
-## Domestic conference
+## Domestic Conferences
 [24] <ins>伊藤優成</ins>, 西堀 結貴, 小野寛太, "結晶構造プロトタイプを活用した粉末 X 線回折の相同定手法の開発", 第87回応用物理学会秋季学術講演会, 北海道, September (2026).
 <br>
 <br>
