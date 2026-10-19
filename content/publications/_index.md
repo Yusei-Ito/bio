@@ -26,10 +26,10 @@ description: "Publications"
 ---
 
 ## International Conferences (Peer-reviewed)
-[6] <ins>Yusei Ito</ins>, Yuki Nishihori, Kanta Ono, "A Prototype-Guided Solver for Crystal Structure Determination from Powder X-ray Diffraction," AI for Accelerated Materials Design-NeurIPS2026 Workshop, Sydney, Australia, December (2026).
+[6] <ins>Yusei Ito</ins>, Yuki Nishihori, Kanta Ono, "A Prototype-Guided Solver for Crystal Structure Determination from Powder X-ray Diffraction," NeurIPS 2026 Workshop on AI for Accelerated Materials Design, Sydney, Australia, December (2026).
 <br>
 <br>
-[5] Klea Ziu, Ayala V. Cohen, <ins>Yusei Ito</ins>, Aidar Alimbayev, Leeor Kronik, Martin Takáč, "UMA-DOS: Transfer Learning from Pretrained Atomistic Models for Density of States Prediction," AI for Accelerated Materials Design-NeurIPS2026 Workshop, Sydney, Australia, December (2026).
+[5] Klea Ziu, Ayala V. Cohen, <ins>Yusei Ito</ins>, Aidar Alimbayev, Leeor Kronik, Martin Takáč, "UMA-DOS: Transfer Learning from Pretrained Atomistic Models for Density of States Prediction," NeurIPS 2026 Workshop on AI for Accelerated Materials Design, Sydney, Australia, December (2026).
 <br>
 <br>
 [4] Deepak Kumar, <ins>Yusei Ito</ins>, Aidar Alimbayev, Klea Ziu, Martin Takáč, "LAMP-QDF: Local Attention Map for Potential in Quantum Deep Field," NeurIPS 2026 Workshop on AI for Drug Discovery, Sydney, Australia, December (2026).
@@ -38,10 +38,10 @@ description: "Publications"
 [3] <ins>Yusei Ito</ins>, Aidar Alimbayev\*, Klea Ziu\*, Deepak Kumar\*, Kanta Ono, Martin Takáč, [“Revisiting the Form of Attention with Positional Encoding for Molecular Structures,”](https://openreview.net/forum?id=QGXY4FeSff) ICML 2026 Workshop on AI for Physics, Seoul, South Korea, July (2026).
 <br>
 <br>
-[2] Yuki Nishihori, <ins>Yusei Ito</ins>, Yuta Suzuki, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono, ["Transformer as a Neural Knowledge Graph,"](https://openreview.net/forum?id=vGVvvRwYMR) AI for Accelerated Materials Design-ICLR2025 Workshop, Singapore, April (2025).
+[2] Yuki Nishihori, <ins>Yusei Ito</ins>, Yuta Suzuki, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono, ["Transformer as a Neural Knowledge Graph,"](https://openreview.net/forum?id=vGVvvRwYMR) ICLR 2025 Workshop on AI for Accelerated Materials Design, Singapore, April (2025).
 <br>
 <br>
-[1] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, ["Optimal Spectroscopic Measurement Design: Bayesian Framework for Rational Data Acquisition,"](https://openreview.net/forum?id=PGPlKNtdZq) AI for Accelerated Materials Design-NeurIPS2024 Workshop, Vancouver, Canada, December (2024).
+[1] <ins>Yusei Ito</ins>, Yasuo Takeichi, Hideitsu Hino, Kanta Ono, ["Optimal Spectroscopic Measurement Design: Bayesian Framework for Rational Data Acquisition,"](https://openreview.net/forum?id=PGPlKNtdZq) NeurIPS 2024 Workshop on AI for Accelerated Materials Design, Vancouver, Canada, December (2024).
 
 ---
 
