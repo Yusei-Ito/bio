@@ -5,7 +5,7 @@ description: "Vitae"
 ---
 
 ## Employment
-### Project Researcher, The University of Osaka
+### Project Researcher (part time), The University of Osaka
 - November 2026 – present
 - Supervisor: Prof. Kanta Ono
 <br>
@@ -32,7 +32,7 @@ description: "Vitae"
 <br>
 <br>
 
-### Project Researcher, The University of Osaka
+### Project Researcher (part time), The University of Osaka
 - April 2023 – March 2025
 - Supervisor: Prof. Kanta Ono
 <br>
