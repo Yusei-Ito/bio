@@ -25,7 +25,7 @@ description: "Vitae"
 <br>
 <br>
 
-### Research internship, OMRON SINIC X Corporation 
+### Research Internship, OMRON SINIC X Corporation 
 - May 2024 – September 2024
 - Supervisor: Dr. Tatsunori Taniai & Dr. Ryo Igarashi
 - Published a paper in [ICLR 2025](https://omron-sinicx.github.io/crystalframer/).
