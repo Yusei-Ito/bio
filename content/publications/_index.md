@@ -5,6 +5,9 @@ description: "Publications"
 
 ---
 ## Journals
+[4] Yasuo Takeichi, <ins>Yusei Ito</ins>, Yasuhiro Niwa, Reiko Murao, Masao Kimura, Kanta Ono, ["Gigapixel Imaging XAFS for Chemical and Microstructural Phase Identification of Iron Ore Sinters,"](https://doi.org/10.2355/isijinternational.ISIJINT-2026-193) ISIJ International **66**, 12, pp. 1589–1595 (2026).
+<br>
+<br>
 [3] <ins>Yusei Ito</ins>, Naoya Chiba*, Tatsunori Taniai*, Ryo Igarashi, Yuta Suzuki, Kotaro Saito, Yoshitaka Ushiku, Kanta Ono, ["Enabling Single-Observation Decomposition of Multi-phase X-ray Diffraction Patterns via Generative Deep Learning,"](https://doi.org/10.1038/s41524-026-02087-w) npj Computational Materials **12**, 238 (2026).
 <br>
 <br>
